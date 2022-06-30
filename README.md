@@ -4,8 +4,7 @@
   * [Description](#description)
   * [Table](#table)
   * [Sneak-Peek](#sneak-peek)
-  * [Contributing](#contributing)
-  * [Questions?](#questions)
+
   
   
   ## Description
@@ -88,15 +87,4 @@ This is the table of all the commands that were required for the project and if 
     <img src="take_2.gif">
   </p>
 
-  
-  ## Contributing
-  
-  Contributions are always accepted. There is never no room for improvement. 
-  
-  ---
-  
-  ## Questions?
-  
-  For any business related questions, please contact me through my email:
-  
-  Email: txhakli@gmail.com
+
